@@ -1,0 +1,244 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 4004,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "body {\n	background: #fff url(bg.gif) no-repeat fixed top left;\n	font-family: verdana, helvetica, arial, sans-serif;\n	margin: 0 20px 0 20px;\n	color: #333333;\n}\n\n#container {\nbackground: url(header.jpg) no-repeat top left;\nposition: relative;\nmargin: 0 auto -1px auto;\npadding-top: 50px;\nwidth: 900px;\nborder-bottom: 5px solid #09345f;\n}\n\n#pageHeader {\n	text-align: right;\n	padding-right: 20px;\n	color: #CCCCCC;\n}\n\n#quickSummary {\nwidth: 100%;\ntext-align: right;\n}\n\n#quickSummary p.p1 {\ndisplay: none;\n}\n\n#quickSummary p.p2 {\nmargin-top: 0;\npadding-right: 5px;\n}\n\n#preamble {\nmargin: 50px 0 0 50px;\n}\n\n#explanation, #participation, #benefits, #requirements {\nmargin: 25px 0 0 50px;\nwidth: 529px;\n}\n\n#footer {\nmargin: 0 0 5px 0;\npadding: 10px 0 0 0;\nwidth: 100%;\ntext-align: center;\n}\n\n#linkList {\nposition: absolute;\nwidth: 150px;\ntop: 166px;\nleft: 5px;\n}\n\np {\nfont-size: 13px;\ntext-align: left;\n}\n\n#preamble p.p1, #supportingText p.p1 {\nmargin-top: 10px;\n}\n\n#preamble p, #supportingText p {\nline-height: 18px;\n}\n\n#leftside {\nmargin-top: 10px;\nmargin: 18px 0 0 5px;\n}\n\n#quickSummary p.p2 {\nfont-size: 9px;\ncolor: #999;\n}\n\n#footer {\nfont-size: 9px;\n}\n\n#linkList ul {\nfont-size: 10px;\nlist-style:none;\nmargin: 5px 0 0 0;\npadding: 0 0 0 0;\n}\n\n#linkList ul li {\nmargin: 0;\npadding: 0 0 0 17px;\nline-height: 14px;\ncolor: #ccc;\n}\n\n#linkList #lselect li {\nfont-size: 9px;\n}\n\n#linkList #lselect a:link, #linkList #lselect a:visited { display: block; }\n#linkList #lselect a.c:link, #linkList #lselect a.c:visited { display:inline; }\n\n#larchives li, #lresources li { text-transform: lowercase; }\n\na, a:link, a:visited {\ncolor: #000099;\n}\n\na:hover {\ncolor: #333;\n}\n\n#quickSummary a, #quickSummary a:link, #quickSummary a:visited {\nfont-weight: bold;\ntext-transform: uppercase;\ntext-decoration: none;\n}\n\n#quickSummary a:hover {\ntext-decoration: underline;\n}\n\n#linkList a, #linkList a:link, #linkList a:visited {\ncolor: #666;\ntext-decoration: none;\n}\n\n#linkList a:hover {\ntext-decoration: underline;\ncolor: #333;\n}\n\n#linkList a.c, #linkList a.c:link, #linkList a.c:visited {\ncolor: #999;\ntext-decoration: none;\n}\n\n#linkList a.c:hover {\ntext-decoration: underline;\ncolor: #333;\n}\n\n#linkList #lselect a {\nfont-size: 10px;\n}\n\n#linkList #lselect a.c {\nfont-size: 9px;\ntext-transform: lowercase;\n}\n\n#footer a, #footer a:link, #footer a:visited {\nfont-weight: bold;\ntext-transform: uppercase;\ntext-decoration: none;\n}\n\n#footer a:hover {\ntext-decoration: underline;\n}\n\nh3 { margin-bottom: 0px; }\n\nh3 span { }\n\n#supportingText h3 {\nwidth: 529px;\nheight: 15px;\n}\n\n#linkList h3 {\nwidth: 150px;\nheight: 20px;\nmargin-top: 20px;\n}\n\n#preamble h3 {\nwidth: 529px;\nheight: 26px;\n}\n\n#explanation h3 {\n}\n\n#participation h3 {\n}\n\n#benefits h3 {\n}\n\n#requirements h3 {\n}\n\n#lselect h3 {\nmargin-top: 10px;\n}\n",
+			"file": "style.css",
+			"file_size": 2952,
+			"file_write_time": 1394164132000000,
+			"settings":
+			{
+				"buffer_size": 2768,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "{\n	\"folders\":\n	[\n		{\n			\"path\": \"/media/qcai/New Volume/website/qingqing\",\n			\"folder_exclude_patterns\":\n			[\n				\"pics\"\n			],\n			\"file_exclude_patterns\":\n			[\n\n				\"qcaiweb.sublime-workspace\",\n				\"*.*~\",\n				\"*.pdf\"\n				\n			]\n		}\n	]\n	\n}\n",
+			"file": "qcaiweb.sublime-project",
+			"file_size": 234,
+			"file_write_time": 1394138088000000,
+			"settings":
+			{
+				"buffer_size": 239,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"	\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 4004,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								648,
+								648
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "style.css",
+					"settings":
+					{
+						"buffer_size": 2768,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								936,
+								936
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 787.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "qcaiweb.sublime-project",
+					"settings":
+					{
+						"buffer_size": 239,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								222,
+								222
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 72.0,
+	"status_bar_visible": true
+}

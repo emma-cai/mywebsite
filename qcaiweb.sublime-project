@@ -1,0 +1,20 @@
+{
+	"folders":
+	[
+		{
+			"path": "/media/qcai/New Volume/website/qingqing",
+			"folder_exclude_patterns":
+			[
+				"pics"
+			],
+			"file_exclude_patterns":
+			[
+
+				"qcaiweb.sublime-workspace",
+				"*.*~",
+				"*.pdf"
+			]
+		}
+	]
+	
+}
