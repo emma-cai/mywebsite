@@ -21,6 +21,11 @@ border-bottom: 5px solid #09345f;
 	color: #CCCCCC;
 }
 
+#example {
+	text-align: center;
+	color: #808080;
+}
+
 #quickSummary {
 width: 100%;
 text-align: right;
